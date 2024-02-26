@@ -1,0 +1,112 @@
+@media only screen and (max-width: 600px) {
+    .n1{
+        display: block;
+    }
+    .ul-icon{
+        position: absolute;
+        top: -5px;
+        left: 300px;
+        align-items: center;
+
+    }
+    .firstbox{
+        margin-top: 50px;
+        margin-left: 40px;
+    }
+    .box1{
+        width: 400px;
+        height: 300px;
+       
+    }
+    .box1p1{
+        font-size: 2.3rem;
+        position: relative;
+        top:30%;
+        left: 50%;
+       
+    }
+    .box1p2{
+        font-size: 1rem;
+        position: relative;
+        top:-10%;
+        left: 50%;
+        
+    }
+
+    /* new sec */
+
+    .b2{
+        margin-top: 250px;
+    }
+
+    .box2{
+        width: 300px;
+        height: 200px;
+        
+    }
+    
+    .box2 img{
+        width: 100.6px;
+        height: 100.43px;
+    }
+
+    /* Box3 */
+    .h1{
+        font-size: 3.5rem;
+    }
+    .b3p1{
+        font-size: 2rem;
+    }
+    
+    .L{
+        margin-left: -200px;
+    }
+
+    .new-box1{
+        display: flex;
+    }
+
+    /* box3 */
+    .b3b{
+        display: block;
+    }
+
+    .box3{
+        margin-top: 100px;
+    }
+
+    /* box 4 */
+
+    .box4 h1{
+        font-size: 4rem;
+    }
+
+    .box4 p{
+        font-size: 2rem;
+    }
+
+    /*footer*/
+
+    footer{
+        height: 700px;
+    }
+    .FP{
+        display: block;
+        margin-left: 50px;
+        padding: 10px;
+    }
+    .sbox2{
+        margin-left: 100px;
+    }
+    .payment-box{
+        margin: 0px;
+        margin-top: 20px;
+        text-align: center;
+    }
+    .copyright{
+        margin: 0px;
+        padding-top: 20px;
+        float: none;
+        text-align: center;
+    }
+}
